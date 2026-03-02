@@ -20,7 +20,7 @@ const experiences = [
   {
     period: "Oct 2021 — Jul 2023",
     role: "Full Stack Java Developer",
-    company: "Toyota",
+    company: "UnitedHealth",
     description:
       "Implemented automotive enterprise applications using Java, Spring Boot, React, and Angular. Developed RESTful APIs, reusable React components, and Kafka-based event-driven systems. Deployed and monitored services on AWS with Docker/Kubernetes, focusing on scalability and performance.",
     technologies: ["Java", "Spring Boot", "React", "Angular", "Kafka", "AWS"],
