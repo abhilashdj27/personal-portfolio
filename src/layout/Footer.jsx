@@ -3,7 +3,7 @@ import { Github, Linkedin, Twitter, Heart } from "lucide-react";
 const socialLinks = [
   { icon: Linkedin, href: "https://www.linkedin.com/in/abhilashk99/", label: "LinkedIn" },
   
-  { icon: Github, href: "#", label: "GitHub" },
+  { icon: Github, href: "https://github.com/abhilashkanno", label: "GitHub" },
   
 ];
 
