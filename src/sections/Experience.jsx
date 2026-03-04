@@ -1,7 +1,7 @@
 const experiences = [
   {
     period: "March 2025 — Present",
-    role: "Full Stack Developer",
+    role: "Java Full Stack Developer",
     company: "Charles Schwab",
     description:
       "Built scalable enterprise trading platforms using Java 17, Spring Boot, React, Angular, and microservices. Developed real-time dashboards, optimized APIs, and implemented event-driven services with Kafka. Deployed cloud-native applications on AWS with CI/CD pipelines and monitoring. Mentored junior developers and ensured secure coding standards.",
@@ -20,7 +20,7 @@ const experiences = [
   {
     period: "Oct 2021 — Jul 2023",
     role: "Full Stack Java Developer",
-    company: "UnitedHealth",
+    company: "UnitedHealth Group",
     description:
       "Implemented automotive enterprise applications using Java, Spring Boot, React, and Angular. Developed RESTful APIs, reusable React components, and Kafka-based event-driven systems. Deployed and monitored services on AWS with Docker/Kubernetes, focusing on scalability and performance.",
     technologies: ["Java", "Spring Boot", "React", "Angular", "Kafka", "AWS"],
@@ -28,7 +28,7 @@ const experiences = [
   },
   {
     period: "Dec 2019 — Sept 2021",
-    role: "Software Developer",
+    role: "Software Engineer",
     company: "Tata Consultancy Services",
     description:
       "Built the insurance Product Editor tool using Java, Spring MVC/Boot, JSP, and jQuery. Developed dynamic UI, backend services, and integrated with Guidewire for claim processing. Secured APIs with OAuth2/JWT and implemented asynchronous workflows with JMS.",
