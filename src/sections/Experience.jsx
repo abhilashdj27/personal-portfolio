@@ -19,7 +19,7 @@ const experiences = [
   },
   {
     period: "Oct 2021 — Jul 2023",
-    role: "Full Stack Java Developer",
+    role: "Software Engineer",
     company: "UnitedHealth Group",
     description:
       "Implemented automotive enterprise applications using Java, Spring Boot, React, and Angular. Developed RESTful APIs, reusable React components, and Kafka-based event-driven systems. Deployed and monitored services on AWS with Docker/Kubernetes, focusing on scalability and performance.",
@@ -28,7 +28,7 @@ const experiences = [
   },
   {
     period: "Dec 2019 — Sept 2021",
-    role: "Software Engineer",
+    role: "Software Developer",
     company: "Tata Consultancy Services",
     description:
       "Built the insurance Product Editor tool using Java, Spring MVC/Boot, JSP, and jQuery. Developed dynamic UI, backend services, and integrated with Guidewire for claim processing. Secured APIs with OAuth2/JWT and implemented asynchronous workflows with JMS.",
